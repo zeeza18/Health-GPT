@@ -162,4 +162,3 @@ cython_debug/
 #.idea/
 h_gpt/
 model/llama-2-7b-chat.ggmlv3.q4_0.bin
-experiments/*
